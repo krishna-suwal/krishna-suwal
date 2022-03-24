@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/gs_programmer"><img src="https://api.daily.dev/devcards/3e44ba9bc9434458829a95e362d9f963.png?r=0k5" width="400" alt="Krishna Suwal's Dev Card"/></a>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-suwal-948b6220a) 
